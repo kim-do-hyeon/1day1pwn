@@ -1,2 +1,3 @@
 *.zip
 pwndbg
+.gdb_history
